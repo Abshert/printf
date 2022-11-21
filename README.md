@@ -1,9 +1,9 @@
 ALX Software Enginering Printf Team Project
 
 This team project is a custom made printf function for the C programming language. It has been optimized to take various inputs and optional arguments based exactly on how the standard library function printf works.
-The work was carried out by: Aisha Salihu Abdul (abdulaishasalihu@gmail.com) and Nnamdi Okpalaugo ().
+The work was carried out by: Aisha Salihu Abdul (abdulaishasalihu@gmail.com) and Nnamdi Okpalaugo (nnamdiokpalaugo@gmail.com).
 
-Authorized functions and macros used for this project
+Authorized functions and macros used for this project are -
 write (man 2 write)
 malloc (man 3 malloc)
 free (man 3 free)
